@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YassaChoudhary
 - 👀 I’m interested in Website development & UI UX designing
-- 🌱 I’m currently learning Fontend website Development
+- 🌱 I’m currently learning Fontend website Development & doing Freelancing as a UI UX Designer on Fiverr
 - 💞️ I’m looking to collaborate on Freelancing together
 - 📫 How to reach me yassachoudhary@gmail.com
 
